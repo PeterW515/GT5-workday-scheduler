@@ -9,3 +9,4 @@ The calendar is cleared on each new day.
 
 https://peterw515.github.io/GT5-workday-scheduler/
 
+![image](https://user-images.githubusercontent.com/78565748/119247006-45586500-bb54-11eb-899a-f3b5238460d5.png)
